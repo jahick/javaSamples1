@@ -66,5 +66,6 @@ public class SaleEmployee_Hickerson {
 		sb.append("-------------------------------------------------\n");
 		return sb.toString();
 		
+		
 	}
 }
